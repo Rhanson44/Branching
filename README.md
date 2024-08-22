@@ -11,3 +11,9 @@ Examples of common git commands, in addition to practice with branching and reso
 * 'git status' - show status of local repo
 * 'git log' - list commit history of current branch
 * 'git log --oneline' - abbreviated format ^
+
+### Branching Commands
+* 'git branch' - list local branches
+* 'git branch branchName' - create local branch 'branchName'
+* 'git checkout branchName' - switch to branch 'branchName'
+* 'git checkout -b branchName' - create and switch to branch 'branchName'

@@ -2,6 +2,8 @@
 
 Examples of common git commands, in addition to practice with branching and resolving merge conflicts
 
+Added stuff here in main
+
 ### General Commands
 * 'git init' - intitialize local git repo in current working directory
 * 'git add filename' - stage 'filename' for commit
